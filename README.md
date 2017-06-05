@@ -1,4 +1,4 @@
-# first_jni
+# 在Android Studio运行第一个NDK程序
 
 在Android Studio运行第一个NDK程序	
 
